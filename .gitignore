@@ -1,0 +1,7 @@
+# Fichiers lourds exclus de GitHub 
+Captures/ 
+Datasets/dataset_ids.csv 
+VMs/ 
+*.pcap 
+ISOs/
+*.iso

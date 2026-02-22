@@ -1,0 +1,4 @@
+Name              : Victime
+Server name       : ubuntu-victime
+Username          : victime
+Password          : Victime123!
